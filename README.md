@@ -1,5 +1,5 @@
 # About Me
-Hi, I'm Tim Little. In American terms I would be described as a "high school teacher" but here in the UK I teach A level Computer Science in a large 6th form college on the South Coast.
+Hi, I'm Tim Little. In American terms I would be described as a "high school teacher" but here in the UK I teach A level Computer Science in [BHASVIC](https://www.bhasvic.ac.uk/), a large [6th form college](https://en.wikipedia.org/wiki/Sixth_form_college#United_Kingdom) on the South Coast.
 
 ## A bit of context
 Before teaching I worked in industry as a senior analyst/programmer, mostly around Fin Tech. Professionally I started with ANSI C in the 90s, then on to creating ASP pages using VBA and VB. Quite a lot of SQL (mostly SQL Server) and some HTML/CSS with a bit of Java thrown in.
