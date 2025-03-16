@@ -13,7 +13,8 @@ As well as the annual Advent of Code competition which I usually start but don't
 [Flutter and Dart Timetable](https://github.com/timjlittle/FlutterTimetableApp) Flutter/Dart, Android Studio   
 [Diplomacy](https://github.com/timjlittle/Diplomacy2/tree/master) Java/Swing, NetBeans  
 
-
+## Future plans
+I would like to explore more Python, especially in regard to data handling. I also need to learn more about JSon and re-visit XML. I would quite like to explore connecting the Flutter/Dart app to Google services such as Calendar and to create a Flutter/Dart App front end for the Diplomacy project, which would feed player's orders to a back end engine.
 
 <!--
 **timjlittle/timjlittle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
