@@ -12,6 +12,12 @@ As well as the annual [Advent of Code](https://adventofcode.com/) competition wh
 
 [Flutter and Dart Timetable](https://github.com/timjlittle/FlutterTimetableApp) Flutter/Dart, Android Studio   
 [Diplomacy](https://github.com/timjlittle/Diplomacy2/tree/master) Java/Swing, NetBeans  
+### Advent of Code  
+
+- [2021](https://github.com/timjlittle/AoC2021/tree/main) A mix of C and Java
+- [2022](https://github.com/timjlittle/AoC2022) For some reason I am missing quite a lot of this
+- 2023 This is on another account
+- [2024](https://github.com/timjlittle/AoC2024) Java
 
 ## Future plans
 I would like to explore more Python, especially in regard to data handling. I also need to learn more about JSon and re-visit XML. I would quite like to explore connecting the Flutter/Dart app to Google services such as Calendar and to create a Flutter/Dart App front end for the Diplomacy project, which would feed player's orders to a back end engine.
